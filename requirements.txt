@@ -1,0 +1,4 @@
+python-dotenv>=1.0.0
+phidata>=2.5.0
+yfinance>=0.2.40
+lancedb>=0.3.5
